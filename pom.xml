@@ -23,7 +23,7 @@
 		<java.version>1.8</java.version>
 		<jetty.version>9.3.8.v20160314</jetty.version>
 		<!-- https://www.eclipse.org/jetty/documentation/current/alpn-chapter.html#alpn-versions -->
-		<alpn-version>8.1.7.v20160121</alpn-version>
+		<alpn-version>8.1.11.v20170118</alpn-version>
 	</properties>
 
 	<dependencies>
@@ -104,7 +104,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	
+
 	<build>
 		<plugins>
 			<plugin>
